@@ -1,0 +1,7 @@
+MedViet Governance Lab - automated test summary
+Date: 2026-06-30
+Result: 16 passed, 0 failed
+
+Coverage includes PII detection/anonymization, RBAC API authorization,
+AES-256-GCM envelope encryption, tamper detection, and the data-quality suite.
+Full machine-readable results: test_results.xml
